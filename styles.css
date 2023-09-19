@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #4CAF50;
+}
+button {
+  background-color: #3d8b40;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+}
+/*# sourceMappingURL=styles.css.map */
