@@ -38,5 +38,5 @@ Link to the generated styles.css file in your HTML document:
 
 Open your HTML file in a browser. When you inspect an element styled by styles.css, the browser's developer tools will show the original LESS code (ensure source maps are enabled in the developer tools settings).
 
-Note
+Note:
 Ensure the source map (styles.css.map) is in the same directory as the compiled CSS (styles.css) for correct mapping.
