@@ -1,6 +1,6 @@
 # LESS Compilation with Source Maps
 
-This guide will walk you through the process of compiling LESS files with source maps, which can be helpful for debugging in a development environment.
+This guide will walk you through the process of compiling LESS files with source maps, which can be helpful for debugging in a local/development environment.
 
 ## Prerequisites
 
